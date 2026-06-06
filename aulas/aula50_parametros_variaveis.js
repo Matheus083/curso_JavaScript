@@ -10,4 +10,3 @@ console.log(sum(1, 2, 3, 4, 5)); // Output: 15
 console.log(sum(10, 20)); // Output: 30
 console.log(sum(5)); // Output: 5
 console.log(sum()); // Output: 0
-''
